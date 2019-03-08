@@ -6,3 +6,48 @@ body {
     line-height: 1.6;
     font-size: 14px;
 }
+
+#header_1{
+	color: white;
+	width:100%
+}
+
+.theme_hestia{
+	color:#6c6c6c;
+	font-family: Helvetica,Arial,sans-serif;
+	font-weight:600;
+	font-size:13px;
+}
+
+.admindemo{
+	padding: 9px 9px 7px;
+	border-radius:5px;
+	font-family:"Helvetica";
+	font-size:14px;
+	background-color :#60a2ca;
+	color: white;  
+	transition-property: color;
+	transition:.5s ease;
+	
+}
+
+.admindemo:hover{
+	background-color: #00ccff;
+}
+
+
+.downloadthistheme{
+	padding: 9px 9px 7px;
+	border-radius:5px;
+	font-family:"Helvetica";
+	font-size:14px;
+	background-color :#ff3300;
+	color: white;  
+	transition-property: color;
+	transition:.5s ease;
+	
+}
+
+.downloadthistheme:hover{
+	background-color:  #ff6600;
+}
