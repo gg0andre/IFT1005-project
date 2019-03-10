@@ -150,6 +150,7 @@ blockquote{
 	overflow: hidden;
 	position: relative;
 	height: 60%;
+	width: 50%;
 }
 
 .TeamMember{
@@ -209,4 +210,9 @@ li{
 	max-width: 130px;
 	max-height: 130;
 	border-radius: 50%;
+}
+
+.Subscribe{
+	max-width: 100%;
+	
 }
