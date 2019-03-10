@@ -266,3 +266,41 @@ li{
 	color: #fff;
 	font-size: 12px;
 }
+
+article{
+	width: 90%;
+}
+
+.blog{
+	display: inline-block;
+	margin-right: -4px;
+	margin-left: -4px;
+	align-items: center;
+	vertical-align: top;
+	width: 30%;
+}
+
+
+.description{
+	color: #999;
+
+	margin: 0 0 10px;
+}
+.description a{
+	text-decoration: none;
+	color: #23527c;
+	margin-left: 5px;
+}
+
+.blokg-titre a{
+	text-decoration: none;
+	color: #3C4858;
+	font-size: 18px;
+
+	margin-top: 5px;
+}
+
+#category1 a{
+	text-decoration: none;
+	color: #89229b;
+}
