@@ -525,11 +525,17 @@ a{
 	text-align: right;
 	
 	padding: 10px 0 0 0;
-
+	
 }
 .contact-button-submit{
 	border-radius: 3px;
 	padding: 15px 33px 15px 33px;
+
+	background: #e91e63;
+	color: #ffffff;
+	font-family: "Roboto", "Helvetica", 
+	"Arial", serif;	
+	font-size: 18px;
 }
 
 footer{
