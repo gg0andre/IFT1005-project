@@ -95,13 +95,16 @@ h1, h2, h3, h4, h5, h6, p, blockquote{
 	font-size: 14px;	
 }
 
-h5{
+h5, h6{
 	margin-top: 10px;
 	margin-bottom: 10px;
 }
 
-blockquote{
+h6{
+	text-transform: uppercase;
+}
 
+blockquote{
 	margin: 0 0 10px;
 }
 
@@ -141,7 +144,6 @@ blockquote{
 	
 	width: 50%;
 	height: auto;
-	
 }
 
 .img-member{
@@ -158,3 +160,22 @@ blockquote{
 	padding-left: 85px;
 	padding-right: 15px;
 }
+
+ul{
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+li{
+	display: inline;
+	vertical-align: block;
+	font-size: 0.8em;
+
+	background-color: transparent;
+}
+
+i{
+	width: 20px;
+}
+
+
