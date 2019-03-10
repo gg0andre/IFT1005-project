@@ -318,3 +318,13 @@ a{
 .description a{
 	color: #23527c;
 }
+
+
+.contact{
+	background-image: url(https://mllj2j8xvfl0.i.optimole.com/w:auto/h:auto/q:90/https://s20206.pcdn.co/wp-content/themes/hestia/assets/img/contact.jpg);
+	padding: 90px 0 70px;
+
+	background-position: center center;
+	background-size: cover;
+	background-color: #343434;
+}
