@@ -7,6 +7,83 @@ body {
     font-size: 14px;
 }
 
-.countainer{
-    
+<<<<<<< HEAD
+
+=======
+#header_1{
+	display: flex;
+	flex-direction:row;
+	margin: auto;
+	color: white;
+	width:100%;
+	
 }
+
+.theme_hestia{
+	color:#6c6c6c;
+	font-family: Helvetica,Arial,sans-serif;
+	font-weight:600;
+	font-size:13px;
+}
+
+.admindemo{
+	padding: 9px 9px 7px;
+	border-radius:5px;
+	font-family:"Helvetica";
+	font-size:14px;
+	background-color :#60a2ca;
+	color: white;  
+	transition-property: color;
+	transition:.5s ease;
+	
+}
+
+.admindemo:hover{
+	background-color: #00ccff;
+}
+
+
+.downloadthistheme{
+	padding: 9px 9px 7px;
+	border-radius:5px;
+	font-family:"Helvetica";
+	font-size:14px;
+	background-color :#ff3300;
+	color: white;  
+	transition-property: color;
+	transition:.5s ease;
+	
+}
+
+.downloadthistheme:hover{
+	background-color:  #ff6600;
+}
+
+.container1{
+	background-image:;
+	background-repeat: no-repeat;
+    background-position: center; 
+    position: relative;
+}
+
+.lignee_boutons{
+	display:flex; 
+	flex-direction: row; 
+	justify-content: center; 
+	align-items: right;
+
+}
+
+#table45{
+	border:0;
+	
+}
+
+.download_button, .see_more{
+	border-radius: 5;
+	background-color: #ff0066;
+	color: white;
+	
+	
+}
+>>>>>>> 2b4b50d6b28a701dd32194814ee69af965f82edd
