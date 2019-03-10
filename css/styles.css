@@ -95,5 +95,14 @@ body {
 
 .countainer {
 	text-align: center;
-	padding: .8em 1.2em;
+	padding: .8em 1.2em;	
+	margin: auto;
+	background-color: white;
+
+}
+
+.liste1 {
+	display: flex;
+	flex-direction: row;
+	
 }
