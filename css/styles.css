@@ -362,3 +362,6 @@ a{
 .description h5{
 	font-size: 18px;
 }
+.description p{
+	color: #ccc;
+}
