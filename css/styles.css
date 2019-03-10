@@ -244,4 +244,25 @@ li{
 .Mail{
 	padding: 20px;
 	margin-top: 30px;
+	display: inline-block;
+
+	background-color: #fff;
+	width: 70%;
+}
+
+.sub-email{
+	padding-left: 10px;
+	border: 0;
+	margin-bottom: 1px;
+	width: 60%;
+}
+
+.sub-submit{
+	width: 20%;
+	border-radius: 3px;
+	padding: 15px 33px 15px 33px;
+
+	background-color: #e91e63;
+	color: #fff;
+	font-size: 12px;
 }
