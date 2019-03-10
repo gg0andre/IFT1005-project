@@ -100,6 +100,11 @@ h5{
 	margin-bottom: 10px;
 }
 
+blockquote{
+
+	margin: 0 0 10px;
+}
+
 .container {
 	text-align: center;
 	padding: .8em 1.2em;	
@@ -117,6 +122,9 @@ h5{
 	line-height: 1.5;
 	margin-bottom: 70px;
 	font-weight: 300;
+}
+
+.p1, blockquote{
 	color: #999;
 }
 
@@ -146,6 +154,7 @@ h5{
 	text-align: left;
 	font-size: 14px;
 
+	padding-top: 15px;
 	padding-left: 85px;
 	padding-right: 15px;
 }
