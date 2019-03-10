@@ -520,7 +520,12 @@ a{
 	border: none;
 	margin-bottom: 17px;
 }
+.contact-button{
+	text-align: right;
+	
+	padding: 10px 0 0 0;
 
+}
 
 footer{
 	background: #323437;
