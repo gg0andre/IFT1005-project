@@ -82,6 +82,19 @@ body {
 	border-radius: 5;
 	background-color: #ff0066;
 	color: white;
+}
+<!--1-->
+.paragraphe1{
+	text-align:center;
+}
+
+.3_icones, .images_products{
+	display: flex;
+}
+
+.fa fa-th{
+	color: #ff6600;
+}
 
 .para1{
 	display: inline-block;
@@ -508,90 +521,3 @@ a{
 	border: none;
 	margin-bottom: 17px;
 }
-=======
-
-
-
-<!--1-->
-.paragraphe1{
-	text-align:center;
-}
-
-.3_icones, .images_products{
-	display: flex;
-}
-
-.fa fa-th{
-	color: #ff6600;
-}
-
-.para1{
-	display: inline-block;
-	width:40%;
-	height:auto;
-}
-
-
-
-.fa fa-th{
-	color: #ff6600;
-}
-
-.icone{
-	
-	position: relative;
-	display: inline-block;
-	width: 30%;
-	height: auto;
-
-	padding-left: 10px;
-	padding-right: 10px;
-	text-align:center;
-}
-
-
-.fa fa-reorder{
-	color: blue;
-}
-
-.icone2{
-	
-	width:30%;
-	text-align:center;
-}
-
-
-<!-- modif-->
-
-.dropdown_content{
-	width:40%
-}
-
-."pagebuilder"{
-	background-image: url('https://mllj2j8xvfl0.i.optimole.com/w:auto/h:auto/q:90/https://s20206.pcdn.co/wp-content/uploads/sites/89/2018/07/about-background.jpg');
-	max-width: 100%;
-	position: relative;
-	background-position: top center;
-	background-size: cover;padding: 50px 0;
-	display: block;
-	
-}
-
-.images_products{
-	display: inline-block;
-	width:auto;
-	height:auto;
-	
-}
-
-.desc_prod{
-	display: inline-block;
-	width:40%;
-	height:auto;
-	
-	
-}
-
-<!--1-->
-
->>>>>>> 7d6e6b5790b977100f788951c07f3c4feb8eca0f
