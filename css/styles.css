@@ -149,7 +149,7 @@ body {
 }
 
 .images_products{
-	display: inline-block;
+	display: flex;
 	width:auto;
 	height:auto;
 	
