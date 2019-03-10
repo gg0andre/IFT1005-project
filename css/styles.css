@@ -339,9 +339,26 @@ a{
 .contact1{
 	position: relative;
 	padding-left: 15px;
-	padding-right: 15;
+	padding-right: 15px;
 }
 .contact-titre{
 	color: #fff;
 	font-size: 36px;
+	margin-bottom: 30px;
+}
+.contact1 p{
+	font-size: 20px;
+	color: #ccc;
+	margin-bottom: 15px;
+}
+.contact-description{
+	margin-top: 30px;
+	max-width: 360px;
+	font-size: 36px;
+}
+.description1{
+	color: #fff;
+}
+.description h5{
+	font-size: 18px;
 }
