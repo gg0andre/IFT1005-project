@@ -90,7 +90,7 @@ body {
 
 
 
-h1, h2, h3, h4, h5, h6, p, blockquote{
+ h5, h6, p, blockquote{
 	font-family: "Roboto", "Helvetica", "Arial", sans-serif;
 	font-size: 14px;	
 }
@@ -176,3 +176,37 @@ li{
 	opacity: 0.7;
 }
 
+.container h2{
+	font-size: 36px;
+	margin-bottom: 10px;
+}
+.container h6{
+	color: #777;
+}
+
+.liste2-flex{
+	display: flex;
+	height: auto;
+}
+
+.client {
+	position: relative;
+	display: inline-block;
+	width: 49%;
+	height: auto;
+
+	padding-left: 15px;
+	padding-right: 15px;
+}
+.client h5{
+	color: #3C4858;
+	word-wrap: break-word;
+	line-height: 1.4;
+	font-size: 18px;
+}
+
+.image-border{
+	max-width: 130px;
+	max-height: 130;
+	border-radius: 50%;
+}
