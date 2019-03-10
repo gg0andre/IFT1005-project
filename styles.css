@@ -1,0 +1,328 @@
+body {
+    color: #3c4858; 
+    font-family: "Roboto", "Helvetica", 
+    "Arial", serif;
+    font-weight: 300;
+    line-height: 1.6;
+    font-size: 14px;
+}
+
+
+
+#header_1{
+	display: flex;
+	flex-direction:row;
+	margin: auto;
+	color: white;
+	width:100%;
+	
+}
+
+.theme_hestia{
+	color:#6c6c6c;
+	font-family: Helvetica,Arial,sans-serif;
+	font-weight:600;
+	font-size:13px;
+}
+
+.admindemo{
+	padding: 9px 9px 7px;
+	border-radius:5px;
+	font-family:"Helvetica";
+	font-size:14px;
+	background-color :#60a2ca;
+	color: white;  
+	transition-property: color;
+	transition:.5s ease;
+	
+}
+
+.admindemo:hover{
+	background-color: #00ccff;
+}
+
+
+.downloadthistheme{
+	padding: 9px 9px 7px;
+	border-radius:5px;
+	font-family:"Helvetica";
+	font-size:14px;
+	background-color :#ff3300;
+	color: white;  
+	transition-property: color;
+	transition:.5s ease;
+	
+}
+
+.downloadthistheme:hover{
+	background-color:  #ff6600;
+}
+
+.container1{
+	background-image:;
+	background-repeat: no-repeat;
+    background-position: center; 
+    position: relative;
+}
+
+.lignee_boutons{
+	display:flex; 
+	flex-direction: row; 
+	justify-content: center; 
+	align-items: right;
+
+}
+
+#table45{
+	border:0;
+	
+}
+
+.download_button, .see_more{
+	border-radius: 5;
+	background-color: #ff0066;
+	color: white;
+	
+	
+}
+
+
+
+
+
+ h5, h6, p, blockquote{
+	font-family: "Roboto", "Helvetica", "Arial", sans-serif;
+	font-size: 14px;	
+}
+
+h5, h6{
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+h6{
+	text-transform: uppercase;
+}
+
+blockquote{
+	margin: 0 0 10px;
+}
+
+.container {
+	text-align: center;
+	padding: .8em 1.2em;	
+	background-color: white;
+	margin: 50px 25px 50px;
+}
+
+.h2{
+	font-size: 36px;
+	margin-bottom: 10px;
+}
+
+.p1{
+	font-size: 18px;
+	line-height: 1.5;
+	margin-bottom: 70px;
+	font-weight: 300;
+}
+
+.p1, blockquote{
+	color: #999;
+}
+
+.liste1 {
+	display: flex;
+	flex-wrap: wrap;
+	align-items: center;
+	justify-content: space-around;
+	padding: 0 10px;
+}
+
+.liste1-flex{
+	display: inline-block;
+	
+	width: 50%;
+	height: auto;
+}
+
+.img-member{
+	overflow: hidden;
+	position: relative;
+	height: 60%;
+	width: 50%;
+}
+
+.TeamMember{
+	text-align: left;
+	font-size: 14px;
+
+	padding-top: 15px;
+	padding-left: 85px;
+	padding-right: 15px;
+}
+
+ul{
+	list-style: none;
+	margin: 0;
+	padding: 0;
+	margin-bottom: 25px;
+}
+li{
+	display: inline;
+	vertical-align: block;
+}
+
+.fas:hover{
+	opacity: 0.7;
+}
+
+.container h2{
+	font-size: 36px;
+	margin-bottom: 10px;
+}
+.container h6{
+	color: #777;
+}
+
+.liste2-flex{
+	display: flex;
+	height: auto;
+}
+
+.client {
+	position: relative;
+	display: inline-block;
+	width: 49%;
+	height: auto;
+
+	padding-left: 15px;
+	padding-right: 15px;
+}
+.client h5{
+	color: #3C4858;
+	word-wrap: break-word;
+	line-height: 1.4;
+	font-size: 18px;
+}
+
+.image-border{
+	max-width: 130px;
+	max-height: 130;
+	border-radius: 50%;
+}
+
+.Subscribe{
+	max-width: 100%;
+	background-image: url(https://mllj2j8xvfl0.i.optimole.com/w:auto/h:auto/q:90/https://s20206.pcdn.co/hestia/wp-content/uploads/sites/89/2017/01/buildings_comp.jpg);
+	position: relative;
+	background-position: top center;
+	background-size: cover;
+
+	padding: 65px 0;
+	display: block;
+}
+
+.Sub-container{
+	text-align: center;
+	margin-left: -15px;
+	margin-right: -15px;
+}
+
+.Sub-container h4{
+	color: #fff;
+	font-size: 36px;
+	margin-bottom: 10px;
+}
+
+.Sub-container p{
+	color: #efefef;
+	font-size: 18px;
+	margin-bottom: 15px;
+}
+
+.Mail{
+	padding: 20px;
+	margin-top: 30px;
+	display: inline-block;
+
+	background-color: #fff;
+	width: 70%;
+}
+
+.sub-email{
+	padding-left: 10px;
+	border: 0;
+	margin-bottom: 1px;
+	width: 60%;
+}
+
+.sub-submit{
+	width: 20%;
+	border-radius: 3px;
+	padding: 15px 33px 15px 33px;
+
+	background-color: #e91e63;
+	color: #fff;
+	font-size: 12px;
+}
+
+
+
+<!-- -->
+<!-- -->
+
+.paragraphe1{
+	text-align:center;
+}
+
+.3_icones{
+	display: flex;
+}
+
+.fa fa-th{
+	color: #ff6600;
+}
+
+#para1{
+	display: inline-block;
+	width:40%;
+	height:auto;
+}
+
+
+
+.fa fa-th{
+	color: #ff6600;
+}
+
+.icone{
+	
+	position: relative;
+	display: inline-block;
+	width: 30%;
+	height: auto;
+
+	padding-left: 10px;
+	padding-right: 10px;
+	text-align:center;
+}
+
+
+.fa fa-reorder{
+	color: blue;
+}
+
+.icone2{
+	
+	width:30%;
+	text-align:center;
+}
+
+
+<!-- -->
+<!-- -->
+
+
+
+
