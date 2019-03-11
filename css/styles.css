@@ -580,3 +580,20 @@ footer{
 	text-transform: none;
 	margin-bottom: 25px;
 }
+
+#gallery-1 {
+	margin: auto;
+}
+#gallery-1 .gallery-item {
+	float: left;
+	margin-top: 10px;
+	text-align: center;
+	width: 25%;
+}
+#gallery-1 img {
+	border: 2px solid #cfcfcf;
+}
+#gallery-1 .gallery-caption {
+	margin-left: 0;
+}
+
