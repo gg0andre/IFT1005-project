@@ -605,3 +605,20 @@ footer{
 	margin-bottom: 20px;
 	border-top: 1px solid #eee;
 }
+
+.footer-menu{
+	position: relative;
+}
+.footer-liste{
+	margin-bottom: 0;
+	padding: 0;
+	list-style: none;
+	line-height: 1.6;
+
+	color: #fff;
+}
+.footer-menu-item{
+	padding: 15px;
+	display: inline-block;
+	color: #fff;
+}
