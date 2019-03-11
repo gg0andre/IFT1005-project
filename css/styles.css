@@ -435,7 +435,7 @@ a{
 .contact-description{
 	margin-top: 30px;
 	max-width: 360px;
-	font-size: 36px;
+	
 }
 .description1{
 	color: #fff;
@@ -445,6 +445,7 @@ a{
 }
 .description p{
 	color: #ccc;
+	font-size: 18px;
 }
 
 .contact-us{
