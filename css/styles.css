@@ -607,7 +607,9 @@ footer{
 }
 
 .footer-menu{
+	margin-bottom: 100px;
 	position: relative;
+	display: block;
 }
 .footer-liste{
 	margin-bottom: 0;
@@ -616,9 +618,15 @@ footer{
 	line-height: 1.6;
 
 	color: #fff;
+	float: left;
 }
 .footer-menu-item{
 	padding: 15px;
 	display: inline-block;
 	color: #fff;
+}
+.copyright{
+	color: #fff;
+	padding: 15px 0;
+	float: right;
 }
