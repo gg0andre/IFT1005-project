@@ -251,7 +251,6 @@ ul{
 }
 li{
 	display: inline;
-	vertical-align: block;
 }
 
 .fas:hover{
@@ -289,7 +288,7 @@ li{
 
 .image-border{
 	max-width: 130px;
-	max-height: 130;
+	max-height: 130px;
 	border-radius: 50%;
 }
 
@@ -490,7 +489,6 @@ a{
 	border: 0;
 
 	text-align: left;
-	align-content: left;
 }
 .form-format1{
 	font-weight: 700;
@@ -543,7 +541,6 @@ footer{
 	background: #323437;
 	color: #999;
 	padding: 30px 0 18px;
-	text-align: ltr;
 	font-size: 14px;
 }
 
@@ -560,7 +557,6 @@ footer{
 }
 .texte5{
 	margin-bottom: 30px;
-	word-break: break-word;
 }
 .texte5 h5{
 	color: #fff;
