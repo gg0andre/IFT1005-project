@@ -596,4 +596,11 @@ footer{
 #gallery-1 .gallery-caption {
 	margin-left: 0;
 }
-
+.gallery{
+	margin-bottom: 55px;
+}
+.footer hr{
+	margin-top: 10px;
+	margin-bottom: 20px;
+	border-top: 1px solid #eee;
+}
